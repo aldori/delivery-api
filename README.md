@@ -1,0 +1,1 @@
+The NODE project is an MBA challenge (full-stack development), module 1.
